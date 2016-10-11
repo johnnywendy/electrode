@@ -1,0 +1,37 @@
+{
+  "name": "component-generator",
+  "version": "1.0.0",
+  "description": "component0generator",
+  "main": "lib/index.js",
+  "author": {
+    "name": "John Mendiola",
+    "url": "https://github.com/johnnywendy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnnywendy/electrode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnnywendy/electrode/issues"
+  },
+  "homepage": "https://github.com/johnnywendy/electrode",
+  "dependencies": {},
+  "devDependencies": {
+    "electrode-archetype-react-component": "^1.0.0",
+    "electrode-archetype-react-component-dev": "^1.0.0",
+    "gulp": "^3.9.1"
+  },
+  "engines": {
+    "node": "^4.2.6",
+    "npm": "^3.5.3"
+  },
+  "scripts": {
+    "prepublish": "gulp prepublish"
+  },
+  "keywords": [
+    "react",
+    "electrode",
+    "electrode-component",
+    "react-component"
+  ]
+}
